@@ -9,11 +9,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
----
-
-
-# 🌱 GreenHealth IoT
-
 O **GreenHealth IoT** é uma versão reduzida do projeto GreenHealth, desenvolvida com foco em **Internet das Coisas (IoT)** para monitoramento ambiental de plantas domésticas. A proposta é utilizar sensores conectados a um microcontrolador ESP32 para coletar dados do ambiente e enviá-los em tempo real por meio do protocolo MQTT.
 
 Esta versão tem como objetivo demonstrar, de forma prática e funcional, como sensores podem ser integrados a uma interface web para acompanhar variáveis importantes no cuidado de plantas, como **umidade do solo**, **luminosidade**, **temperatura** e **umidade do ar**.
