@@ -11,9 +11,9 @@
 
 ---
 
-## 📌 Nome do projeto
+![GitHub repo size](https://img.shields.io/github/repo-size/samueldesaa/greenhealth-iot)
+![GitHub last commit](https://img.shields.io/github/last-commit/samueldesaa/greenhealth-iot)
 
-**GreenHealth IoT**
 
 O **GreenHealth IoT** é uma versão reduzida do projeto GreenHealth, desenvolvida com foco em **Internet das Coisas** para o monitoramento de plantas domésticas.
 
@@ -71,7 +71,30 @@ A interface web recebe essas informações e apresenta os dados ao usuário por 
 👤 Usuário
 ```
 
+
 Nesta etapa, o foco principal está no **monitoramento ambiental** das plantas, permitindo visualizar os dados em tempo real.
+
+<div align="center">
+
+<img src="assets/TesteMonitoramento.jpg" alt="Protótipo físico do GreenHealth IoT" width="700">
+
+<br>
+
+<em>Protótipo físico com ESP32 e sensores utilizados no monitoramento das plantas.</em>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="assets/DashboardMobile.jpg" alt="Protótipo físico do GreenHealth IoT" width="700">
+
+<br>
+
+<em>Dashboard de monitoramento dos sensores em tempo real utilizando MQTT</em>
+
+</div>
 
 ---
 
@@ -119,7 +142,16 @@ Nesta etapa, o foco principal está no **monitoramento ambiental** das plantas, 
 
 > ⚠️ **Atenção:** os pinos GPIO 34, 35, 36 e 39 do ESP32 são apenas entrada. Eles podem ser usados para sensores, mas não devem ser usados como saída.
 
----
+<div align="center">
+
+<img src="assets/EsquemaEletrico.jpg" alt="Protótipo físico do GreenHealth IoT" width="700">
+
+<br>
+
+<em>Protótipo físico com ESP32 e sensores utilizados no monitoramento das plantas.</em>
+
+</div>
+
 
 ## 📡 Comunicação MQTT
 
